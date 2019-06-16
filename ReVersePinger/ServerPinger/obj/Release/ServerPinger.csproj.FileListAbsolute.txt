@@ -1,0 +1,44 @@
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Release\ServerPinger.exe.config
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Release\ServerPinger.exe
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Release\ServerPinger.pdb
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\ServerPinger.FrmPinger.resources
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\ServerPinger.Properties.Resources.resources
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\ServerPinger.csproj.GenerateResource.Cache
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\ServerPinger.csproj.CoreCompileInputs.cache
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\ServerPinger.exe
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\ServerPinger.pdb
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Release\Interop.WMPLib.dll
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Release\AxInterop.WMPLib.dll
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\Interop.WMPLib.dll
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\AxInterop.WMPLib.dll
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\ServerPinger.csproj.ResolveComReference.cache
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Release\ServerPinger.csprojResolveAssemblyReference.cache
+D:\Programs\C#\ReVersePinger\ServerPinger\bin\Release\Interop.WMPLib.dll
+D:\Programs\C#\ReVersePinger\ServerPinger\bin\Release\AxInterop.WMPLib.dll
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\Interop.WMPLib.dll
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\AxInterop.WMPLib.dll
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.csproj.ResolveComReference.cache
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.FrmPinger.resources
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.Properties.Resources.resources
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.csproj.GenerateResource.Cache
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.csproj.CoreCompileInputs.cache
+D:\Programs\C#\ReVersePinger\ServerPinger\bin\Release\Royals Status Checker.exe.config
+D:\Programs\C#\ReVersePinger\ServerPinger\bin\Release\Royals Status Checker.exe
+D:\Programs\C#\ReVersePinger\ServerPinger\bin\Release\Royals Status Checker.pdb
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\Royals Status Checker.exe
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\Royals Status Checker.pdb
+D:\Programs\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.csprojAssemblyReference.cache
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\bin\Release\Royals Status Checker.exe.config
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\bin\Release\Royals Status Checker.exe
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\bin\Release\Royals Status Checker.pdb
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\bin\Release\Interop.WMPLib.dll
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\bin\Release\AxInterop.WMPLib.dll
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\Interop.WMPLib.dll
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\AxInterop.WMPLib.dll
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.csproj.ResolveComReference.cache
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.FrmPinger.resources
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.Properties.Resources.resources
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.csproj.GenerateResource.cache
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\ServerPinger.csproj.CoreCompileInputs.cache
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\Royals Status Checker.exe
+D:\Programming\Personal\C#\ReVersePinger\ServerPinger\obj\Release\Royals Status Checker.pdb
