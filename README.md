@@ -1,4 +1,4 @@
-# Nicer-Server-Pinger
+# Royals Pinger
 Kinda improved server pinger from the other one I have. I like this one better, although this one is designed to ping a specific MapleStory private server.
 
 - Pings the MapleRoyals login and game servers (whichever you choose)
